@@ -1,0 +1,17 @@
+{
+    "name": "programmerzia/php-mvc-lite",
+    "authors": [
+        {
+            "name": "Ziaur Rahman",
+            "email": "programmerzia@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\":"./"
+        }
+    },
+    "require": {
+        "php": "^8.1"
+    }
+}
